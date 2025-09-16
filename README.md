@@ -51,8 +51,61 @@ composer install
 # Import file SQL nếu có, hoặc dùng migrate:
 
 php artisan serve
-## Sơ Đồ Khối
-<img width="940" height="546" alt="455478815-df8747f2-d454-473b-afcd-35e4fa816f7c" src="https://github.com/user-attachments/assets/82da0a87-d525-4093-a735-def3c27dbaf8" />
-## Sơ Đồ Chức Năng
-<img width="680" height="144" alt="455483094-44d19e96-6cd5-4c89-935c-c9282106288c" src="https://github.com/user-attachments/assets/75eed75f-0dd5-457f-b6f3-3b36a736c4d3" />
+```
+---
+## 🗃️ Sơ đồ khối
+    
+
+---
+## ⚙️Sơ đồ chức năng
+### 🔐 Admin
+
+### 👤 Người Dùng
+
+### Guest 
+---
+## 🧠Sơ đồ thuật toán
+
+## Đăng kí
+
+## Đăng nhập
+
+## Thêm dữ liệu
+
+## Sửa dữ liệu
+
+## Xóa dữ liệu
+
+## Đặt vé
+
+---
+## 🔒 Bảo Mật
+
+---
+## 🖼️ Giao Diện Chức Năng
+### 🔐 Admin
+ - **Đăng nhập**
+ - **Quản lý phim**
+ - **Quản lý thể loại phim**
+ - **Quản lý lịch chiếu**
+ - **Quản lý phòng chiếu**
+ - **Quản lý đồ uống**
+ - **Danh sách & giá ghế ngồi**
+ - **Phương thức thanh toán**
+ - **Danh sách tài khoản user**
+---
+### 👤 Người Dùng
+
+ - **Đăng nhập**
+ - **Trang chủ**
+ - **Xem lịch chiếu**
+ - **Giá vé**
+ - **Tin tức**
+ - **Đặt vé**
+ - **Đổi mật khẩu**
+---
+## 🔗 Liên Kết
+- 🔗 GitHub Page: https://github.com/luanhi1094
+- 🔗 GitHub Project: https://github.com/luanhi1094/project_php_laravel.git
+
 
